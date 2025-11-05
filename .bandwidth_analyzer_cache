@@ -1,0 +1,16 @@
+{
+  "interface": "ppp0",
+  "log_dir": "bandwidth",
+  "chart": true,
+  "details": false,
+  "export": true,
+  "alert_gb": 100.0,
+  "reset_threshold": 0.8,
+  "timezone": "Africa/Cairo",
+  "aggregate": [
+    "both"
+  ],
+  "peak_analysis": true,
+  "stability_report": true,
+  "anomaly_detection": false
+}

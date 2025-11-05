@@ -1,0 +1,11 @@
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+    lo:   10560      64    0    0    0     0          0         0    10560      64    0    0    0     0       0          0
+  eth0:53211507   40860    0    0    0     0          0         0  4750843   26785    0    0    0     0       0          0
+  eth1: 4465448   27131    0    0    0 13234          0         0 52782246   40653    0    0    0     0       0          0
+ vlan1:       0       0    0    0    0     0          0         0     7635      75    0    0    0     0       0          0
+ vlan2:52475977   40859    0    0    0     0          0        96  4743208   26710    0    0    0     0       0          0
+   br0: 4091142   27192    0    0    0     0          0        73 52529222   40654    0    0    0     0       0          0
+  ppp0:51938139   40419    0    0    0     0          0         0  4048643   26703    0    0    0     0       0          0
+  imq0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+  imq1:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
