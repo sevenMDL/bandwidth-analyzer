@@ -32,7 +32,7 @@ It intelligently detects:
 
 # Export reports to CSV and generate charts
 ./analyze_bandwidth.py --export --charts
-
+```
 
 ---
 
