@@ -38,13 +38,17 @@ It intelligently detects:
 
 📂 Directory Structure
 
-bandwidth-analyzer/
-├── analyze_bandwidth.py         # Main analysis script
-├── .bandwidth_analyzer_cache    # Local cache file (auto-generated)
-└── bandwidth/                   # Data and output directory
-    ├── charts/                  # Generated bandwidth charts
-    ├── exports/                 # CSV/JSON export files
-    └── logs/                    # Raw router logs
+analyze_bandwidth.py – main analysis script
+
+.bandwidth_analyzer_cache – local cache file
+
+bandwidth/
+
+charts/ – generated graphs
+
+exports/ – CSV/JSON outputs
+
+logs/ – raw router logs
 
 ---
 
