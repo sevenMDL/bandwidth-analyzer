@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Bandwidth Analyzer Pro - Professional Edition
-Author: AI Assistant  
+Author: SevenMDL
 Description: Professional tool for analyzing router bandwidth usage with enhanced reset detection and comprehensive analytics
 Version: 2.2 - Enhanced Analytics & Aggregation
 """
